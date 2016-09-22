@@ -1,2 +1,194 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_7de705ffa7282f12998151d44c7578b39010f5cf/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_796315b6b43f59348e465fac13a96f1add89938b/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_fbc8ddfa45b4357c8393b68a04d2f6218501dea4/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_ffe720bb2d3f099e115795b4c0ea3b8cc71e6567/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8dc482ac3db8826fe2342bc399f3e648d617ec59/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f78301d3fee5cccdba0248076d07713f4f17dde9/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_3062686c12f16fa4dd276b7a59f91579958a31f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.2.1_954697520f137ad259ddba395523e8246c7f3389/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.2.1_a64403f0c487c93dcd85527840705dd33c27e5cc/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_239d30069c353231a0901f617532585de3ad29e2/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_5ac557a9be628802d7367ed3cfdc2a5112edfddf/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_fe8a67336396f359ed4e0a13fa3c6a2103fa1f0c/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_7a1bb1ddf5c2e1dff58bd2d17be8e2dd72564bb4/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c3b6a9e5649111e77928b6a38fb3dd5a5da66e93/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1f1750f959d4f75b752ca36ecb7f32ebf4c591a0/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8b744dfa5d33a7ba7bdfe9217d9b6f6b050a5135/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5b6db56c86d9fd77ad924655d1c355eb6d513e7b/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_4620737450c591570b595f29de36097045e1df53/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_bfeb66aaa60103f769fbe428819e100a95ae9402/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_bbe67041341917f660eb888fc5946d02b2bd17c8/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_239d30069c353231a0901f617532585de3ad29e2/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_87516827ee0fa5a4c475fd6c65d433b5653f0b0d/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_fe8a67336396f359ed4e0a13fa3c6a2103fa1f0c/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_340f99a27150032137b5751d9515550073067485/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_ffef130a6d11c6ef1baa163d69b339d6aa4f84eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_286dc545b96711efa7067e9bfe4a9ab6d6b6ceef/classes.dex" />
+    </item>
+    <item
+        jar="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/ousmane/AndroidStudioProjects/MaterialDesign/materialDesignProject/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_3062686c12f16fa4dd276b7a59f91579958a31f5/classes.dex" />
+    </item>
+
+</items>
